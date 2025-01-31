@@ -1,5 +1,6 @@
 # Flutter Boot Camp Roadmap
-
+##Must watch before starting any chapter## 
+https://www.youtube.com/playlist?list=PLFyjjoCMAPtxq8V9fuVmgsYKLNIKqSEV4
 ### Introduction To Flutter & Dart 
 - [Dart or Flutter ? Where to start ](https://youtu.be/4zz7FC6QD98)
 - [How to watch this playlist](https://youtu.be/Psg_k1hzdT0)
