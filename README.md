@@ -41,7 +41,9 @@ Let's start Flutter by creating our first project
 - Summing up what we have learned so far
 
 ### Flutter Chapter 2 Login App UI 
-- [This Chapter Tutorial](https://youtu.be/CPnrFOxkdQo)
+- [This Chapter Tutorial](https://youtu.be/bCS1ddMT_sU?si=Wr3h7VpwU5grnrkP)
+- https://youtu.be/0yN2yu88qh8
+- 
 - Stateless widgets
 - Hot reload and hot restart
 - Single children widgets 
