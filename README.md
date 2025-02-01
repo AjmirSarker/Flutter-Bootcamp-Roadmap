@@ -1,6 +1,31 @@
 # Flutter Boot Camp Roadmap
 ##Must watch before starting any chapter## 
 https://www.youtube.com/playlist?list=PLFyjjoCMAPtxq8V9fuVmgsYKLNIKqSEV4
+## 1.245
+1. 1.245
+2. 3
+3. 1.5
+4. 2
+5. 1
+6. 5
+7. 1.5
+8. 2
+9. 1.40min
+10. 6
+11. 1
+12. 3.40min
+13. 2
+14. 2.45min
+15. 2/ 5
+16. 3
+17. 3.2min
+
+    
+41 hours
+
+###
+
+
 ### Introduction To Flutter & Dart 
 - [Dart or Flutter ? Where to start ](https://youtu.be/4zz7FC6QD98)
 - [How to watch this playlist](https://youtu.be/Psg_k1hzdT0)
@@ -242,6 +267,7 @@ At the end I will sum up the whole project, what we have learned and how we can 
 
 ### Flutter Chapter 15 Firebase 
 - [This Chapter Tutorial](https://lnkd.in/dfwijFgd)
+- https://www.youtube.com/watch?v=7seYBGMPf84&list=PLEFAsRdcqVXet8G5szQEZL0lMZ9zldGHd
 - Creating Project
 - Setting up project with firebase for android and ios 
 - CRUD operation with Firebase real time database 
